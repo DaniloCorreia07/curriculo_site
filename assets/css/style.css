@@ -13,6 +13,12 @@ body {
   color: #272829;
 }
 
+.rota{
+  padding: 15%;
+   text-align: center ;
+
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
